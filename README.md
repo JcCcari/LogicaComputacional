@@ -1,0 +1,2 @@
+# LogicaComputacional
+laboratorio logica - Prolog
